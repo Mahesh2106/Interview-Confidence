@@ -34,21 +34,21 @@ TensorFlow: Deep learning framework utilized for sentiment analysis and machine 
 Keras: High-level neural networks API used in conjunction with TensorFlow for building and training machine learning models.
 OpenCV: Computer vision library employed for facial expression analysis and image processing.
 
-Database 
+Database :-
 
 SQLite
 
-Programming Language
+Programming Language :-
 
 Python 
 
-Backend 
+Backend :-
 
 Django Web-Framework
 
-Frontend
+Frontend :-
 
-HTML,Bootstrap,CSS,Javascript
+HTML,Bootstrap,CSS,Javascript.
 
 The project is executed using the command :-
 
