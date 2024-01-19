@@ -16,21 +16,18 @@ The project incorporates a realistic interview simulation environment. Users can
 
 Utilizing OpenCV, the project includes facial expression analysis to evaluate users' non-verbal communication. This feature helps users understand how their facial expressions may impact the perception of their responses, enabling them to make necessary adjustments.
 
-3. Sentiment Analysis
 
-The system incorporates sentiment analysis using TensorFlow and Keras to assess the emotional tone of users' responses. This valuable feedback assists users in gauging the positivity and appropriateness of their answers.
+3. Personalized Feedback
 
-4. Personalized Feedback
+Based on the analysis of interview performance, users receive personalized feedback on areas of improvement. This feature aims to guide users in refining their body language, and overall interview presence.
 
-Based on the analysis of interview performance, users receive personalized feedback on areas of improvement. This feature aims to guide users in refining their communication skills, body language, and overall interview presence.
-
-5. Real-time Confidence Metrics
+4. Real-time Confidence Metrics
 
 The project provides real-time confidence metrics to users during the interview simulation. This includes an analysis of speech patterns, pacing, and pauses, helping users identify areas where they may need to adjust their delivery.
 
 Technologies Used :-
 
-TensorFlow: Deep learning framework utilized for sentiment analysis and machine learning tasks.
+TensorFlow: Deep learning framework utilized for machine learning tasks.
 Keras: High-level neural networks API used in conjunction with TensorFlow for building and training machine learning models.
 OpenCV: Computer vision library employed for facial expression analysis and image processing.
 
